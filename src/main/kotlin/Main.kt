@@ -23,7 +23,8 @@ fun main() {
     // Fifth().solve()
     //Sixth().solve()
     //Seventh().solve()
-    Eighth().solve()
+    // Eighth().solve()
+    Ninth().solve()
 
 }
 
